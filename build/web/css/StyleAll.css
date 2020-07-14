@@ -1,0 +1,18 @@
+*{
+ font-family: 'Montserrat', sans-serif;  
+}
+
+.Titulo{
+    font-size: 40px;
+    color: #343a40;
+}
+
+.img-size{
+    width: 289px; height: 240px;
+}
+
+
+.boton{
+    margin-left: auto; 
+    margin-right: auto;
+}
